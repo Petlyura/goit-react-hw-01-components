@@ -1,0 +1,15 @@
+.friendList {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  width: 460px;
+}
+
+.warning {
+  padding: 15px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: sans-serif;
+  background-color: #f00;
+}

@@ -1,0 +1,12 @@
+.task {
+  max-width: 1170px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  padding: 0 15px;
+}
+
+.task__title {
+  max-width: 50%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
